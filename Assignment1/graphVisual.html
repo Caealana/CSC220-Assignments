@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="Styling.css">
+    
+    </head>
+    <body>
+        <div id="graphTitle"> </div>
+        
+        <!--html on creating dropdown menu from Florian Block -->
+        <div class="dataSelectorArea">
+                    <select class="dataSelector" onchange="setDataSet(this.selectedIndex)"> <!--select tag creates dropdown -->
+                        <option class="dataSelectorItem" value="0">Northampton</option> <!-- option tag creates options in menu -->
+                        <option class="dataSelectorItem" value = "1">Amherst</option>
+                        <option class="dataSelectorItem" value = "2">Easthampton</option>
+                    </select>
+         </div>
+        
+        <div class="graphTypeSelectArea">
+             <select class="graphTypeSelect" onchange="setGraphType(this.selectedIndex)"> <!--select tag creates dropdown -->
+                        <option class="dataSelectorItem" value="0">Bar</option> <!-- option tag creates options in menu -->
+                        <option class="dataSelectorItem" value = "1">Line</option>
+                    </select>
+            
+        </div>
+        
+
+        <canvas id="myCanvas"> </canvas>
+        <script src="data.js">
+            //console.log(series3.getData());
+        </script>
+        
+        <script src = "BarandLineGraph.js">
+        
+        </script>
+    </body>
+</html>

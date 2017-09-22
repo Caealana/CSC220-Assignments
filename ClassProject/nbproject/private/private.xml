@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithDataVisUML.class.violet.html</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Rectangle.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/tools.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergySlider.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/DataPoint.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Checkboxes.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SliderManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/main.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/screenResolution/main.css</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergySliderManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/GraphVisual.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Pointer.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Line.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergySelector.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/DataPointInfoBox.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Key.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Controller.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergyCheckboxes.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergyDataSeries.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/dormEnergy2.json</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/DataSeries.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergySelectorManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Graph.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/DataManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Shape.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/HitTestableElement.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergyGraphArea.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/style.css</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/screenResolution/index.html</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/screenResolution/game_loop.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergyGameLoop.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergyDataManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/index.html</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Selector.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/screenResolution/extended_game_loop.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SelectorManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/PointerManager.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Slider.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/GameLoop.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/LineGraph.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/GraphArea.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Ellipse.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/HorizontalText.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Text.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/Point.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/VerticalText.js</file>
+            <file>file:/Users/Caelana/NetBeansProjects/CSC%20220,%20Sayasith,%20Sabrina/public_html/ClassProject/SmithDataVis/SmithEnergyController.js</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Smith's Energy Consumption</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+
+        
+    </head>
+    <body>
+        <canvas id="canvas"> </canvas>
+        <script src = "dormEnergy2.json"></script>
+        <script src = "tools.js"></script>
+        <script src = "DataPoint.js"></script>
+        <script src = "DataSeries.js"></script>
+        <script src = "DataManager.js"></script>
+        <script src = "SmithEnergyDataSeries.js"></script>
+        <script src = "SmithEnergyDataManager.js"></script>
+        <script src = "Point.js"></script>
+        <script src = "GraphVisual.js"></script>
+        <script src = "Ellipse.js"></script>
+        <script src = "Text.js"></script>
+        <script src = "HorizontalText.js"></script>
+        <script src = "VerticalText.js"></script>
+        <script src = "Line.js"></script>
+        <script src = "GraphArea.js"></script>
+        <script src = "SmithEnergyGraphArea.js"></script>
+        <script src = "Graph.js"></script>
+        <script src = "LineGraph.js"></script>
+        <script src = "Selector.js"></script>
+        <script src = "SmithEnergySelector.js"></script>
+        <script src = "SelectorManager.js"></script>
+        <script src = "SmithEnergySelectorManager.js"></script>
+        
+        <div id = "selectorDiv"></div>
+        <div class="energySelectorArea">
+                    <select class="energySelector" onchange=
+                        "setEnergy(this.value)"> <!--select tag creates dropdown -->
+                        <option class="energySelectorItem"
+                                value="E">Electricity</option> <!-- option tag creates options in menu -->
+                        <option class="energySelectorItem"
+                                value = "W">Water</option>
+                    </select>
+         </div>
+    </body>
+</html>
